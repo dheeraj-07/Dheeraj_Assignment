@@ -15,7 +15,7 @@ Git
 7. In case of issues shown after the npm install, run the below to automatically fix the issues : "npm audit fix"
 8. Start the development server by using the command "npm run dev" or "npm start".
 9. This command will start a local development server and run the React project in your web browser.
-10. The vite will be started and will show the local port number on which you can access the project by navigating to "http://localhost:displayed_port_number" in your web browser.
+10. The vite will be started and will show the local port number on which you can access the project by navigating to "http://localhost:5173" in your web browser.
 11. Or to run directy from vite press "o" to get redirected to web browser and press "q" to quit.
 
 # React + Vite
