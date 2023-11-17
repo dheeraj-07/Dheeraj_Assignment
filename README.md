@@ -11,7 +11,8 @@ Git
 2. Download or git clone the project in your computer.
 3. Now open terminal or Command Prompt and navigate to the project directory.
 4. Now Install the dependencies to your system by using the following command (on cmd) : "npm install"
-6. This command will read the package.json file in the repository and download all of the dependencies listed there.
+5. This command will read the package.json file in the repository and download all of the dependencies listed there.
+6. To build the project use the command : "npm run build"
 7. In case of issues shown after the npm install, run the below to automatically fix the issues : "npm audit fix"
 8. Start the development server by using the command "npm run dev" or "npm start".
 9. This command will start a local development server and run the React project in your web browser.
