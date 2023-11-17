@@ -2,8 +2,8 @@
 The app is made using React, Vite and HTML, CSS and I have Used Tailwind CSS for Styling.
 
 Prerequisites:
-NPM & Node.js
-React JS
+NPM & Node.js , 
+React JS , 
 Git
 
 # Run The Projet:
